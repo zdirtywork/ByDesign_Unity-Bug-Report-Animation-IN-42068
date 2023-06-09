@@ -1,4 +1,4 @@
-# Unity-Bug-Report-Animation-IN-42068
+# [By Design] Unity-Bug-Report-Animation-IN-42068
 
 **Unity has stated that this was intentional by design.**
 
